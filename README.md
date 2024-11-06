@@ -1,1 +1,1 @@
-# coding-project-template
+# Capstone project at home
